@@ -2,11 +2,11 @@
 
 > **VisualGuide Version:** 1.1.02
 
-![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
-![Accessibility](https://img.shields.io/badge/accessibility-inclusive-brightgreen)
-![Windows 11](https://img.shields.io/badge/OS-Windows%2011-lightgrey)
-![CPU Support](https://img.shields.io/badge/CPU-Intel%2FAMD-orange)
-![GPU Support](https://img.shields.io/badge/GPU-NVIDIA%2FAMD%2FIntel-red)
+- ![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)
+- ![Accessibility](https://img.shields.io/badge/Accessibility-Inclusive-brightgreen)
+- ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-lightgrey)
+- ![CPU Support](https://img.shields.io/badge/CPU-Intel%2FAMD-orange)
+- ![GPU Support](https://img.shields.io/badge/GPU-NVIDIA%2FAMD%2FIntel-red)
 ---
 
 ![FNBubbles420 Logo](https://fnbubbles420.org/orgcircle.png)
