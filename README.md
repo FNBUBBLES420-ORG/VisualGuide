@@ -7,6 +7,7 @@
 - ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-lightgrey)
 - ![CPU Support](https://img.shields.io/badge/CPU-Intel%2FAMD-orange)
 - ![GPU Support](https://img.shields.io/badge/GPU-NVIDIA%2FAMD%2FIntel-red)
+- ![MSI Downloads](https://img.shields.io/github/downloads/fnbubbles420-org/VisualGuide-Accessibility-Tool/total)
 ---
 
 ![FNBubbles420 Logo](https://fnbubbles420.org/orgcircle.png)
