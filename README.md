@@ -99,6 +99,8 @@ VisualGuide is a **desktop accessibility tool** designed specifically for gamers
 - **Background processing** - minimal impact on game performance
 - **Non-intrusive overlay** - only provides visual information
 
+# [Download MSI Installer 1.0.25](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
+
 ## 📥 MSI Installer - Fully Automated Setup
 
 ### What the Installer Does for You
@@ -293,7 +295,6 @@ The installer is designed for **non-technical users**:
 4. For more advanced features, consider free screen readers like [NVDA](https://www.nvaccess.org/) or commercial options like JAWS.
 5. To stop Narrator, press **Windows key + Ctrl + Enter** again or close it from the Narrator window.
 
-# [Download MSI Installer 1.0.25](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
 
 ## Support & Community
 - Visit [FNBubbles420 Org](https://www.fnbubbles420.org)
