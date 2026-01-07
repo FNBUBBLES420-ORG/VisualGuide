@@ -281,8 +281,7 @@ Learn more about our programs: [Our Programs](https://www.fnbubbles420.org/our-p
 
 ### No Technical Setup Required
 The installer is designed for **non-technical users**:
-- **No command line usage** - everything has a graphical interface
-- **No manual Python installation** - handled automatically
+- **No command line usage** - everything has a graphical interfacE
 - **No dependency conflicts** - installer manages everything
 - **No configuration files to edit** - works out of the box
 - **No model downloads** - all AI models included
