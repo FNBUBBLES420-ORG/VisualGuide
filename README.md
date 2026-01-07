@@ -104,8 +104,7 @@ VisualGuide is a **desktop accessibility tool** designed specifically for gamers
 ### What the Installer Does for You
 
 ✅ **Complete Python Environment Setup**
-- Automatically installs **Python 3.11.9** with proper PATH configuration
-- Detects and removes conflicting Python versions
+- Will have you manual insall Python and follow the prompts *very easy*
 - Preserves your existing Python packages in a backup file
 
 ✅ **GPU Optimization**
@@ -293,6 +292,8 @@ The installer is designed for **non-technical users**:
 3. Adjust Narrator voice, speed, and verbosity in the Narrator settings.
 4. For more advanced features, consider free screen readers like [NVDA](https://www.nvaccess.org/) or commercial options like JAWS.
 5. To stop Narrator, press **Windows key + Ctrl + Enter** again or close it from the Narrator window.
+
+# [Download MSI Installer 1.0.25](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
 
 ## Support & Community
 - Visit [FNBubbles420 Org](https://www.fnbubbles420.org)
