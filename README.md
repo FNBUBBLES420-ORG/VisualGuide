@@ -272,7 +272,7 @@ Learn more about our programs: [Our Programs](https://www.fnbubbles420.org/our-p
 - **Administrator Privileges**: Required during installation
 
 ### What Gets Installed Automatically
-- ✅ **Python 3.11.9** with proper system configuration
+- ✅ **Python 3.11.9** > **YOU WILL NEED TO FOLLOW THE PROMPTS FOR PYTHON INSTALLATION WHEN IT DOWNLOADS VIA `MSI`
 - ✅ **All required dependencies** (PyQt5, OpenCV, Ultralytics, ONNX Runtime)
 - ✅ **GPU drivers and CUDA** (for NVIDIA graphics cards)
 - ✅ **AI detection models** (copied to your Documents folder)
