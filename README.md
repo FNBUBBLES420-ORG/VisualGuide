@@ -55,7 +55,7 @@ VisualGuide is a **desktop accessibility tool** designed specifically for gamers
 
 > **⚠️ Important**: Windows 10 is no longer supported. Windows 11 is required for all features to function properly.
 
-```
+```python
 print("VisualGuide")
 print("Accessibility-focused visual enhancement tool")
 print()
