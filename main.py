@@ -1,0 +1,6 @@
+print("VisualGuide")
+print("Accessibility-focused visual enhancement tool")
+print()
+print("This repository contains the source code.")
+print("To use VisualGuide, please download the official installer:")
+print("https://www.fnbubbles420.org/Visual-Guide/visual-guide-info")
