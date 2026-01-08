@@ -72,6 +72,8 @@ print("https://www.fnbubbles420.org/Visual-Guide/visual-guide-info")
 * **Storage:** SSD for faster model loading
 * **Display:** 1920×1080 or higher for the best overlay experience
 
+# Trouble Shooting Tips
+- [Trouble Shoot](https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/Visual-Guide-Troubleshooting-Notes.MD)
 ---
 
 ## 🛡️ Accessibility, Compliance & Ethics
