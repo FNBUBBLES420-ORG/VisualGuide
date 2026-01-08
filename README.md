@@ -1,4 +1,4 @@
-# VisualGuide Accessibility Tool
+# VisualGuide™ Accessibility Tool
 
 > **VisualGuide Version:** 1.1.02
 
@@ -18,9 +18,9 @@ Empowering gamers, streamers, developers, veterans — especially those with dis
 ---
 
 
-## What is VisualGuide?
+## What is VisualGuide™?
 
-VisualGuide is a **desktop accessibility tool** designed specifically for gamers and users who need visual assistance and enhanced focus during gameplay. Developed by FNBubbles420 Org, this application provides:
+VisualGuide™ is a **desktop accessibility tool** designed specifically for gamers and users who need visual assistance and enhanced focus during gameplay. Developed by FNBubbles420 Org, this application provides:
 
 - **Real-time visual overlays** that help with aiming, object detection, and focus enhancement
 - **AI-powered object detection** using YOLO and ONNX models for identifying game elements
