@@ -55,6 +55,15 @@ VisualGuide is a **desktop accessibility tool** designed specifically for gamers
 
 > **⚠️ Important**: Windows 10 is no longer supported. Windows 11 is required for all features to function properly.
 
+```
+print("VisualGuide")
+print("Accessibility-focused visual enhancement tool")
+print()
+print("To use VisualGuide, please download the official installer:")
+print("https://www.fnbubbles420.org/Visual-Guide/visual-guide-info")
+```
+
+
 ### 🛡️ Accessibility & Compliance
 
 **ADA-Compliant Design:**
