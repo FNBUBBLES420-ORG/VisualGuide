@@ -82,25 +82,44 @@ and make sure to check **“Add python.exe to PATH”** during installation.
 
 ---
 
-## 4️⃣ Alternate Launcher (If Desktop Icon Is Broken)
+## 4️⃣ Manually Fixing the Desktop Shortcut (Recommended Fix)
 
-If the **desktop icon still doesn’t work**, you can launch VisualGuide using the backup script:
+If the **VisualGuide desktop icon exists but does not launch**, you can manually correct the shortcut target. This is the most reliable fix if the shortcut was created incorrectly during install.
 
-1. Go to:
+### Step-by-Step Fix
+
+1. Go to this folder:
 
 ```text
-C:\Program Files\VisualGuide\visualguide-backup\setup
+C:\Program Files\VisualGuide\visualguide-backup
 ```
 
-2. Double-click:
+2. Locate:
 
 ```text
 run-application.bat
 ```
 
-This will start VisualGuide as an **alternate launcher**.
+3. **Right-click** `run-application.bat`
+   → Click **Copy as path**
 
-> The desktop shortcut behavior will be improved and fixed in a **later update**. 😊
+4. On your **Desktop**, right-click the **VisualGuide** shortcut
+   → Select **Properties**
+
+5. In the **Target** field:
+
+* Remove everything currently there
+* **Paste the copied path** to `run-application.bat`
+
+6. In the **Start in** field, make sure it is set to:
+
+```text
+C:\Program Files\VisualGuide
+```
+
+7. Click **Apply**, then **OK**
+
+After this, launching VisualGuide from the **desktop icon** should work correctly.
 
 ---
 
