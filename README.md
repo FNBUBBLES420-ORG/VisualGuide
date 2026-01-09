@@ -55,8 +55,9 @@ print("https://www.fnbubbles420.org/Visual-Guide/visual-guide-info")
   * **Intel:** Arc A380 4GB or Intel Xe integrated graphics
 * **Storage:**
 
-  * **2GB** free for the MSI installer + base app
-  * **15–20GB additional** free space for NVIDIA (CUDA toolkit + cuDNN)
+  * **1.82GB** for VisualGuide MSI installer + base app
+  * **771MB additional** for NVIDIA CUDA installer download
+  * **~3GB total storage** after CUDA/cuDNN installation
 * **Admin Rights:** Required during installation
 * **Internet Connection:** Required for initial setup and dependency downloads
 
