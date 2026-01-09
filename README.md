@@ -1,6 +1,6 @@
 # VisualGuide™ Accessibility Tool
 
-> **VisualGuide Version:** 1.1.02
+> **VisualGuide Version:** 1.1.04
 
 * ![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)
 * ![Accessibility](https://img.shields.io/badge/Accessibility-Inclusive-brightgreen)
