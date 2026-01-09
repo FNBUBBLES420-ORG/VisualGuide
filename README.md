@@ -37,6 +37,8 @@ print("To use VisualGuide, please download the official installer:")
 print("https://www.fnbubbles420.org/Visual-Guide/visual-guide-info")
 ```
 
+# [Download VisualGuide MSI Installer](https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/Download-MSI-Installer_Cuda-Installer.md)
+
 ---
 
 ## 💻 System Requirements
