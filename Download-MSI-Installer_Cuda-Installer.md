@@ -2,5 +2,7 @@
 
 - Archive Password: `VisualGuide`
 
-- > VisualGuide Installer Version: 1.0.28
+- > VisualGuide Installer Version: 1.0.31 
 - > Nvidia Cuda Cudnn Installer Version: 0.0.3 
+
+# no issues
