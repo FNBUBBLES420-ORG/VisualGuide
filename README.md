@@ -132,7 +132,7 @@ VisualGuide is **not a cheat** and **not a bot**:
 
 # 📥 Download VisualGuide
 
-### 👉 [Download MSI Installer 1.0.25](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
+### 👉 [Download MSI Installer 1.0.28](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
 
 ---
 
