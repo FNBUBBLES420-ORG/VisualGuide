@@ -17,28 +17,64 @@ Empowering gamers, streamers, developers, and veterans — especially individual
 
 ---
 
-## What is VisualGuide™?
+## ⚠️ Important Notice
 
-**VisualGuide™** is a **Windows 11 desktop accessibility tool** that enhances **visual clarity, focus, and on-screen awareness** using **optional, user-controlled visual overlays**.
-
-It is designed to support gamers, learners, streamers, and veterans who benefit from additional visual structure — **without automating gameplay or controlling input**.
-
-VisualGuide operates entirely **locally on your PC** and is built with accessibility, transparency, and fair play in mind.
+**VisualGuide is for Windows 11 only.** It is not supported on earlier versions of Windows.
 
 ---
 
-## Key Features
+## What is VisualGuide™?
 
-* **Real-time visual overlays** to support clarity, focus, and perception
-* **AI-powered object detection** using YOLO and ONNX models
-* **Automatic GPU detection** (NVIDIA, AMD, Intel)
-* **Accessibility-first customization**:
+**VisualGuide™** is a **visual clarity and focus overlay tool** built for **accessible, distraction-reduced digital experiences**. It is designed to support **gamers, learners, streamers, and veterans**, and anyone who benefits from cleaner on-screen guidance.
 
-  * High contrast modes
-  * Colorblind-friendly themes
-  * Adjustable image and overlay sizing
-* **Professional Windows GUI** for model selection and system control
-* **Local-only processing** (no cloud, no telemetry)
+VisualGuide™ is designed for **accessibility and visual support only**. It:
+
+* ❌ Does **not** inject into games
+* ❌ Does **not** read or write game memory
+* ❌ Does **not** control mouse, keyboard, or user input
+
+All features are **fully user-controlled**.
+
+---
+
+## Core Principles
+
+* **Accessibility-first** — built with diverse needs in mind
+* **User-controlled overlays** — no automation, no forced behavior
+* **Clarity-first design** — reduce clutter and emphasize what matters
+* **Built by FNBubbles420 Org** — nonprofit-driven assistive technology
+
+---
+
+## Screenshots & Demo
+
+See VisualGuide™ in action.
+*Demo images and videos coming soon.*
+
+---
+
+## What VisualGuide Does
+
+* Displays **optional overlays** that support clarity, focus, and visual comfort
+* Can show **bounding boxes to highlight enemy players** for improved awareness and accessibility
+* Helps reduce distractions by simplifying what you see on screen
+* Supports accessibility-focused modes such as contrast and focus adjustments
+* Provides optional guides and markers to support perception and awareness
+* Designed to work across **games and everyday applications**
+
+---
+
+## How VisualGuide Works
+
+VisualGuide analyzes what’s on your screen and can display **optional visual overlays**, such as **bounding boxes around enemy players**, to support focus and clarity.
+
+It:
+
+* ❌ Does not inject into games
+* ❌ Does not read or write game memory
+* ❌ Never controls user input
+
+All overlays are **user-controlled** and built specifically for accessibility.
 
 ---
 
@@ -94,56 +130,63 @@ All decisions and inputs remain **fully under user control**.
 
 ---
 
-## Quick Start
+## Quick Start (60 Seconds)
 
-1. Download VisualGuide from the official page
-2. Run the MSI installer (administrator required)
-3. Launch VisualGuide from the Desktop or Start Menu
-4. Choose your AI model (YOLO or ONNX)
-5. Select a target game or application window
-6. Enable overlays and adjust accessibility settings
+**Typical install time:**
 
-No command line. No manual dependency setup.
+* **5–10 minutes** (no CUDA)
+* **10–20 minutes** (CUDA systems)
+
+1. Download and run the **VisualGuide™ installer** — it installs all required components if they are missing
+2. When prompted by the **Python installer**, be sure to click **ADD TO PATH** so VisualGuide can function correctly
+3. If using the **NVIDIA CUDA/cuDNN installer**:
+
+   * Run the installer
+   * Double-click the new desktop icon to verify system compatibility and complete CUDA/cuDNN setup
+4. Launch VisualGuide™ from your **Desktop or Start Menu**
+5. Choose a mode or visual model, enable overlays, and adjust comfort settings
+
+Need help? Join our Discord community.
 
 ---
 
-## Accessibility, Safety & Ethics
+## Safety & Fair Play
 
-VisualGuide is designed as **assistive technology**, not a cheat.
+Built for **accessibility, user autonomy, and fair play**.
 
-### Accessibility
+* Overlays only — no automation
+* No input control
+* No game modification
+* Local-only processing
 
-* High contrast and colorblind-friendly modes
-* Scalable text and UI
-* Keyboard-only navigation
-* Screen reader compatible UI (Narrator, NVDA, JAWS)
-
-### Fair Play & Non-Invasive Design
-
-VisualGuide:
-
-* ❌ Does **not** modify game files
-* ❌ Does **not** inject into processes
-* ❌ Does **not** control mouse or keyboard input
-* ❌ Does **not** automate gameplay
-
-✔️ External overlay only
-✔️ Local processing on your PC
+VisualGuide exists to **support users**, not to replace skill or decision-making.
 
 ---
 
 ## Frequently Asked Questions
 
-**Is VisualGuide an aimbot or cheat?**
-No. VisualGuide provides visual assistance only and does not automate gameplay.
+**Is this an aimbot?**
+No. VisualGuide does not automate aiming or gameplay actions.
 
-**Will this get me banned?**
-VisualGuide avoids behaviors associated with cheats and is designed for accessibility use.
+**Does it control my mouse or inputs?**
+No. VisualGuide never controls mouse, keyboard, or any user input.
+
+**Does it inject into games or modify memory?**
+No. VisualGuide does not inject into games and does not access or modify game memory.
+
+**Will it get me banned?**
+VisualGuide is designed for accessibility overlays only and avoids behaviors associated with cheating.
+
+**What does it display on screen?**
+Optional overlays such as highlights, guides, **bounding boxes to highlight enemy players**, and focus/comfort visuals — fully user-controlled.
+
+**What GPUs are supported?**
+Most modern GPUs with up-to-date drivers. Performance varies by hardware.
 
 **Do I need CUDA?**
-No. CUDA is optional and used only for NVIDIA GPU acceleration.
+No. CUDA is not required. It may be used for NVIDIA acceleration when available.
 
-**Where can I get help?**
+**Where do I get help?**
 Join our Discord community for support, updates, and feedback.
 
 ---
