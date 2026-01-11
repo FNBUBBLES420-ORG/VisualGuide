@@ -10,280 +10,187 @@
 
 ---
 
-![FNBubbles420 Logo](https://fnbubbles420.org/orgcircle.png)
-
 🎗️ **Registered 501(c)(3) Nonprofit • EST. 2025**
+Built by **FNBubbles420 Org**
 
-Empowering gamers, streamers, developers, and veterans — especially those with disabilities, autism, PTSD, mental health and physical challenges, and service-related injuries.
+Empowering gamers, streamers, developers, and veterans — especially individuals with disabilities, autism, PTSD, mental health challenges, physical impairments, and service-related injuries.
 
 ---
 
 ## What is VisualGuide™?
 
-VisualGuide™ is a **desktop accessibility tool** designed for gamers and users who need visual assistance and enhanced focus during gameplay.
+**VisualGuide™** is a **desktop accessibility and visual-clarity tool** for Windows 11. It helps users better understand and focus on what’s happening on their screen through **optional, user-controlled visual overlays**.
 
-Developed by **FNBubbles420 Org**, VisualGuide provides:
+VisualGuide is designed to **support perception and accessibility**, not automate gameplay.
 
-* **Real-time visual overlays** that help with aiming, object detection, and focus
+### Key Capabilities
+
+* **Real-time visual overlays** to improve clarity, focus, and awareness
 * **AI-powered object detection** using YOLO and ONNX models
-* **Customizable accessibility features** (high contrast, colorblind modes, adaptive themes)
-* **A professional Windows desktop application** with automatic setup and a user-friendly interface
-
-```python
-print("VisualGuide")
-print("Accessibility-focused visual enhancement tool")
-print()
-print("To use VisualGuide, please download the official installer:")
-print("https://www.fnbubbles420.org/Visual-Guide/visual-guide-info")
-```
-
-# [Download VisualGuide MSI Installer](https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/Download-MSI-Installer_Cuda-Installer.md)
+* **Accessibility-first customization** (contrast modes, colorblind support, adaptive themes)
+* **Professional Windows application** with automated setup and guided configuration
+* **Local processing only** — no cloud, no telemetry
 
 ---
 
-## 💻 System Requirements
+## Download
 
-> **⚠️ Important:** **Windows 11 (64-bit)** is required. Windows 10 is not supported.
+👉 **Official Download Page:**
+[https://www.fnbubbles420.org/Visual-Guide/visual-guide-info](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
 
-### Minimum Requirements
+👉 **MSI Installer Guide (GitHub):**
+[https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/Download-MSI-Installer_Cuda-Installer.md](https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/Download-MSI-Installer_Cuda-Installer.md)
+
+---
+
+## System Requirements
+
+> ⚠️ **Windows 11 (64-bit) is required.** Windows 10 is not supported.
+
+### Minimum
 
 * **OS:** Windows 11 (64-bit)
-* **CPU:** Intel Core i5-8th Gen or AMD Ryzen 5 3600 (or equivalent)
-* **RAM:** 4GB minimum (8GB recommended)
+* **CPU:** Intel i5 (8th Gen) / AMD Ryzen 5 3600
+* **RAM:** 4 GB (8 GB recommended)
 * **GPU:**
 
-  * **NVIDIA:** GTX 1060 6GB or GTX 1650 4GB
-  * **AMD:** RX 580 8GB or RX 5500 XT 4GB
-  * **Intel:** Arc A380 4GB or Intel Xe integrated graphics
-* **Storage:**
-
-  * **1.82GB** for VisualGuide MSI installer + base app
-  * **771MB additional** for NVIDIA CUDA installer download
-  * **~3GB total storage** after CUDA/cuDNN installation
+  * NVIDIA GTX 1060 / GTX 1650
+  * AMD RX 580 / RX 5500 XT
+  * Intel Arc A380 or Xe iGPU
+* **Storage:** ~3 GB total (includes models and optional CUDA)
 * **Admin Rights:** Required during installation
-* **Internet Connection:** Required for initial setup and dependency downloads
+* **Internet:** Required for initial setup only
 
-### Recommended Specs
+### Recommended
 
-* **CPU:** Intel Core i7-10th Gen or AMD Ryzen 7 3700X+
-* **RAM:** 8GB+ for smooth AI processing
-* **GPU:**
-
-  * **NVIDIA:** RTX 2060+ (RTX 20/30/40 series)
-  * **AMD:** RX 6600 XT / RX 6700 XT (RX 6000/7000 series)
-  * **Intel:** Arc A750 / Arc A770
-* **Storage:** SSD for faster model loading
-* **Display:** 1920×1080 or higher for the best overlay experience
-
-# Trouble Shooting Tips
-- [Trouble Shoot](https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/Visual-Guide-Troubleshooting-Notes.MD)
----
-
-## 🛡️ Accessibility, Compliance & Ethics
-
-**Accessibility & Compliance**
-
-* Designed as **assistive technology** for users with disabilities
-* Follows **ADA (Americans with Disabilities Act) guidelines**
-* **Section 508** aligned for federal accessibility standards
-* **WCAG 2.1 AA** principles for visual and UI design
-* Accessibility-first options:
-
-  * High contrast themes
-  * Colorblind-friendly palettes (deuteranopia, protanopia, tritanopia, monochrome)
-  * Scalable text and UI
-  * Full keyboard navigation and screen reader support
-
-**Non-Invasive & Ethical**
-
-VisualGuide is **not a cheat** and **not a bot**:
-
-* **Does NOT** modify or change any game files or settings
-* **Does NOT** inject code into games or alter game behavior
-* **Does NOT** provide mouse automation or any input injection
-* **External overlay only**: reads the screen and draws visual bounding boxes
-* **Read-only visual assistance** – the tool never sends inputs to the game
-* **Privacy-focused**: all processing is done locally on your PC
+* **CPU:** Intel i7 / Ryzen 7 or better
+* **RAM:** 8 GB+
+* **GPU:** RTX 2060+, RX 6600 XT+, or Intel Arc A750+
+* **Storage:** SSD
+* **Display:** 1920×1080 or higher
 
 ---
 
-## 🎮 How VisualGuide Helps in Games
+## Accessibility, Compliance & Ethics
 
-**For Aiming & Focus**
+### Accessibility-First Design
 
-* Draws **bounding boxes** around detected objects in your game window
-* Provides **visual guides** to support accuracy and reaction time
-* Offers **customizable overlays** that avoid clutter and performance impact
-* Designed for players who benefit from extra visual structure and guidance
+VisualGuide is built as **assistive technology**:
 
-**For Accessibility**
+* ADA-aware design principles
+* Section 508 aligned
+* WCAG 2.1 AA-inspired UI decisions
 
-* **High contrast modes** for low-vision users
-* **Colorblind-friendly themes**
-* **Screen reader integration** (Narrator, NVDA, JAWS compatible UI)
-* **Keyboard shortcuts** to control the app without needing a mouse
+Accessibility features include:
 
-**For Enhanced Experience**
+* High-contrast themes
+* Colorblind-friendly palettes
+* Scalable text and UI
+* Full keyboard navigation
+* Screen-reader compatible interface
 
-* **Real-time detection** with GPU acceleration (NVIDIA, AMD, Intel)
-* **Multi-window support** – works with any selected game window
-* **Background processing** to minimize performance impact
-* **Non-intrusive overlay** – transparent and configurable
+### Non-Invasive & Ethical by Design
 
----
+VisualGuide:
 
-# 📥 Download VisualGuide
+* ❌ Does **not** modify game files
+* ❌ Does **not** inject into processes
+* ❌ Does **not** read or write game memory
+* ❌ Does **not** automate mouse or keyboard input
 
-### 👉 [Download MSI Installer 1.0.31](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
-
----
-
-## 💿 MSI Installer – Fully Automated Setup
-
-The **MSI installer** is built so non-technical users can install everything with a standard wizard.
-
-### What the Installer Handles
-
-✅ **Python Environment**
-
-* Downloads and installs **Python 3.11.9**
-* You just follow the official Python installer prompts — it’s straightforward
-* Manages required packages automatically so you don’t have to use the command line
-
-✅ **GPU Optimization (NVIDIA)**
-
-* Detects NVIDIA GPUs and:
-
-  * Installs **CUDA toolkit**
-  * Configures **cuDNN** for AI acceleration
-* Uses UAC prompts so you always know when system-level changes are happening
-
-✅ **Dependencies & Models**
-
-* Installs required Python packages:
-
-  * `PyQt5`, `OpenCV`, `Ultralytics`, `onnxruntime`, and others
-* Sets up GPU-specific versions where needed
-* Copies **AI detection models** to your **Documents** folder
-
-✅ **Desktop Integration**
-
-* Creates a **desktop shortcut**
-* Adds a **Start Menu entry**
-* Sets up required app data and configuration files
+✔️ External overlay only
+✔️ Read-only visual assistance
+✔️ All processing runs locally on your PC
 
 ---
 
-### Quick Install Steps
+## How VisualGuide Helps
 
-1. **Download** the MSI from the VisualGuide page
-2. **Right-click** → **Run as administrator**
-3. **Follow the wizard** (Next → Next → Install)
-4. **Approve UAC prompts** for Python / CUDA when asked
-5. Wait for the installer to complete
-6. Look for the **VisualGuide desktop icon** — you’re ready to go
+### Visual Clarity & Focus
 
-No command line. No manual dependency setup. No model downloads.
+* Highlights detected objects with optional bounding boxes
+* Reduces visual clutter through configurable overlays
+* Supports users who benefit from additional visual structure
 
----
+### Accessibility Support
 
-## 🚀 Using VisualGuide
+* High-contrast and color-adjusted modes
+* Keyboard-only operation
+* Screen reader compatibility (Narrator, NVDA, JAWS)
 
-### Getting Started
+### Performance-Aware
 
-1. Double-click the **VisualGuide desktop icon**
-2. The main interface opens; the Python backend runs in the background
-3. Choose your **AI model** and configure your **preferences**
-
-### Setting Up for Gaming
-
-1. Launch your **game** (windowed or fullscreen)
-2. **Alt+Tab** to VisualGuide
-3. Select your **game window** from the window list
-4. Pick your **detection model** (optimized by game type)
-5. Adjust **overlay settings** (colors, thickness, contrast)
-6. Click **“Run Overlay”** to start assistance
-
-### Overlay Behavior
-
-* Bounding boxes appear in real time over detected objects
-* Overlay window stays on top but uses a transparent background
-* You can toggle overlays on/off using keyboard shortcuts
+* GPU-accelerated detection when available
+* Adjustable models for performance vs accuracy
+* Transparent overlays designed to minimize FPS impact
 
 ---
 
-## ♿ Accessibility Controls
+## Quick Start
 
-* **High Contrast Mode** for low-vision users
-* **Theme Selection**: Normal, high contrast, and colorblind-friendly
-* **Screen Reader Support**: Compatible with Narrator, NVDA, JAWS
-* **Keyboard-Only Control**: All core actions can be driven from the keyboard
-* **Adjustable Text Size**: Larger fonts for easier reading
+1. Download and install VisualGuide using the MSI installer
+2. Launch VisualGuide from Desktop or Start Menu
+3. Select your preferred model and overlay settings
+4. Launch your game or application
+5. Select the target window and enable overlays
 
-### How to Enable Screen Reader on Windows 11
-
-1. Press **Windows + Ctrl + Enter** to start Narrator
-2. Or go to **Settings → Accessibility → Narrator**
-3. Adjust voice, speed, and verbosity
-4. Optional: install [NVDA](https://www.nvaccess.org/) or use JAWS for advanced features
-5. Press **Windows + Ctrl + Enter** again to turn Narrator off
+No command line required. No manual dependency setup.
 
 ---
 
-## ⚙️ Advanced Features
+## Frequently Asked Questions
 
-* **Multiple Game Profiles** – save different configs per game
-* **Model Selection** – use lighter models for higher FPS
-* **Image Size & Confidence Tuning** – balance speed vs. accuracy
-* **Streaming-Friendly** – works alongside OBS and other recording tools
-* **Multi-monitor Support** – use VisualGuide on one screen and game on another
+**Is VisualGuide an aimbot?**
+No. VisualGuide does not automate gameplay or aiming.
 
----
+**Does it control my mouse or keyboard?**
+No. All user input remains fully manual.
 
-## 👥 Who Benefits?
+**Does it inject into games or access memory?**
+No. VisualGuide is an external, read-only overlay.
 
-**Gamers with Disabilities**
+**Will this get me banned?**
+VisualGuide is designed as assistive technology and avoids behaviors associated with cheats.
 
-* Visual impairments, colorblindness, low vision
-* Motor disabilities needing clearer visual guidance
-* Cognitive or attention-related challenges (ADHD, autism, PTSD)
+**Do I need CUDA?**
+No. CUDA is optional and only used for NVIDIA acceleration.
 
-**Veterans & Service Members**
-
-* PTSD-related focus and attention issues
-* Service-related injuries affecting motor skills
-* Visual processing challenges from TBI
-
-**General Gaming Community**
-
-* Players who benefit from extra visual clarity
-* Streamers wanting consistent visual guides
-* Anyone who wants more accessible, structured visual support in games
+**Where can I get help?**
+Join our Discord community for support and updates.
 
 ---
 
-## 🎗️ Our Mission & Programs
+## Who Benefits from VisualGuide?
 
-**FNBubbles420 Org** focuses on:
-
-* **Accessibility Tools**: Software and adaptive solutions for gaming, streaming, and development
-* **Education & Mentorship**: Classes in coding, physics, and digital skills
-* **Student Tech Assistance**: Refurbished laptops for students in need
-* **Veteran Support**: Tech access and community support for veterans with PTSD and disabilities
-* **Mental Health & Community**: Safe, moderated spaces with wellness check-ins
-* **STEM Kit Initiative**: Hands-on science and coding kits for young innovators
-
-Learn more: [Our Programs](https://www.fnbubbles420.org/our-programs)
+* Gamers with visual, cognitive, or motor challenges
+* Veterans with PTSD or service-related injuries
+* Students who benefit from improved visual focus
+* Streamers seeking consistent, accessible overlays
 
 ---
 
-## 🤝 Support & Community
+## Our Mission
 
-* 🌐 Website: [FNBubbles420 Org](https://www.fnbubbles420.org)
-* 💬 Discord: [Join Our Community](https://fnbubbles420.org/discordinvite)
-* 💙 [Donate](https://www.fnbubbles420.org/donate) • [Volunteer](https://www.fnbubbles420.org/volunteer)
+**FNBubbles420 Org** provides:
+
+* Accessibility software and assistive tools
+* STEM education and mentorship
+* Student technology assistance
+* Veteran support programs
+* Mental-health-aware community spaces
+
+Learn more: [https://www.fnbubbles420.org/our-programs](https://www.fnbubbles420.org/our-programs)
 
 ---
 
-© 2025 FNBubbles420 Org. All Rights Reserved. For personal, non-commercial, and educational use only.
-[Copyright](https://www.fnbubbles420.org/copyrightnotice) • [Privacy Policy](https://www.fnbubbles420.org/privacypolicy) • [Terms of Service](https://www.fnbubbles420.org/termsofservice)
+## Support & Community
+
+* 🌐 Website: [https://www.fnbubbles420.org](https://www.fnbubbles420.org)
+* 💬 Discord: [https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+* 💙 Donate: [https://www.fnbubbles420.org/donate](https://www.fnbubbles420.org/donate)
+* 🤝 Volunteer: [https://www.fnbubbles420.org/volunteer](https://www.fnbubbles420.org/volunteer)
+
+---
+
+© 2025 FNBubbles420 Org. All rights reserved.
+For personal, non-commercial, and educational use only.
