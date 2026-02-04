@@ -1,9 +1,4 @@
-# Under Construction 
-Last updated `1-16-2026`
-
 # VisualGuide™ Accessibility Tool
-
-> **VisualGuide Version:** 1.2.02
 
 * ![Python 3.11](https://img.shields.io/badge/Python-3.11-blue.svg)
 * ![Accessibility](https://img.shields.io/badge/Accessibility-Inclusive-brightgreen)
