@@ -11,7 +11,7 @@
 🎗️ **Registered 501(c)(3) Nonprofit • EST. 2025**
 Built by **FNBubbles420 Org**
 
-Empowering gamers, streamers, developers, and veterans — especially individuals with disabilities, autism, PTSD, mental health challenges, physical impairments, and service-related injuries.
+Empowering gamers, streamers, developers, students and veterans — especially individuals with disabilities, autism, PTSD, mental health challenges, physical impairments, and service-related injuries.
 
 ---
 
