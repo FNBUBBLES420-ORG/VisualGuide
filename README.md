@@ -18,6 +18,7 @@ Empowering gamers, streamers, developers, students and veterans — especially i
 ## ⚠️ Important Notice
 
 **VisualGuide is for Windows 11 only.** It is not supported on earlier versions of Windows.
+**Accessibility Device is REQUIRED to use this software.**
 
 ---
 
