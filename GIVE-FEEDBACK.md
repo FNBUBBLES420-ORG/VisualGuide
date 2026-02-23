@@ -67,4 +67,4 @@ Thank you for being part of this mission.
 
 — FNBubbles420 Org
 
-[https://github.com/FNBUBBLES420-ORG/VisualGuide/discussions/2](https://github.com/FNBUBBLES420-ORG/VisualGuide/discussions/2)
+## [VisualGuide Feedback](https://github.com/FNBUBBLES420-ORG/VisualGuide/discussions/2)
