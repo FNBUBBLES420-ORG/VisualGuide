@@ -2,3 +2,5 @@
   - > new version: 1.0.40 (semi-outdated)
   - > new version: 1.0.41 (dependency updates)
 - > Nvidia Cuda Cudnn Installer Version: 0.0.3
+
+[Download](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
