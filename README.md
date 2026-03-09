@@ -224,3 +224,8 @@ Learn more: [https://www.fnbubbles420.org/our-programs](https://www.fnbubbles420
 
 © 2025 FNBubbles420 Org. All rights reserved.
 For personal, non-commercial, and educational use only.
+
+
+
+# FEEDBACK 
+- [Please Provide Feedback on this Accessibility Tool](https://github.com/FNBUBBLES420-ORG/VisualGuide/discussions/2)
