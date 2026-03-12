@@ -18,7 +18,7 @@ Empowering gamers, streamers, developers, students and veterans — especially i
 ## 📊 Tested VisualGuide?
 
 If you installed or tried VisualGuide, please report your result here:
-https://github.com/FNBUBBLES420-ORG/VisualGuide/discussions
+- https://github.com/FNBUBBLES420-ORG/VisualGuide/discussions
 
 Even a simple “Works on my system” helps confirm compatibility.
 
