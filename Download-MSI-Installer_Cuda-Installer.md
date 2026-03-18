@@ -4,3 +4,6 @@
 - > Nvidia Cuda Cudnn Installer Version: 0.0.3
 
 [Download](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
+
+> *dont install in program files*
+> *install in appdata*
