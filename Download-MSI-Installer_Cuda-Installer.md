@@ -5,5 +5,5 @@
 
 [Download](https://www.fnbubbles420.org/Visual-Guide/visual-guide-info)
 
-> *dont install in program files*
-> *install in appdata*
+- > *dont install in program files*
+- > *install in appdata*
