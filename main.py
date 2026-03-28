@@ -1,27 +1,38 @@
+# -*- coding: utf-8 -*-
+from colorama import init, Fore, Style
+
+# Initialize colorama (important for Windows)
+init(autoreset=True)
+
 def main():
-    print("\n===================================")
-    print(" VisualGuide")
-    print(" Accessibility-First Visual Assistant")
-    print("===================================\n")
+    print(Fore.CYAN + "\n===================================")
+    print(Fore.MAGENTA + " VisualGuide")
+    print(Fore.CYAN + " Accessibility-First Visual Assistant")
+    print(Fore.CYAN + "===================================\n")
 
-    print("VisualGuide is NOT a cheat tool.")
-    print("It is designed to help disabled gamers improve visibility and comfort.\n")
+    print(Fore.GREEN + "♿ VisualGuide is built for accessibility and user support.")
+    print(Fore.WHITE + "It helps disabled gamers improve visibility, clarity, and comfort.\n")
 
-    print("To install VisualGuide:")
-    print("👉 Download the official installer:")
-    print("https://www.fnbubbles420.org/visual-guide/visual-guide-info\n")
+    print(Fore.GREEN + "✔ External visual overlay")
+    print(Fore.GREEN + "✔ Fully user-controlled")
+    print(Fore.GREEN + "✔ No automation or gameplay control\n")
 
-    print("Need help or device setup instructions?")
-    print("👉 Join our Discord:")
-    print("https://fnbubbles420.org/discordinvite\n")
+    print(Fore.CYAN + "📥 To install VisualGuide:")
+    print(Fore.WHITE + "👉 Download the official installer:")
+    print(Fore.YELLOW + "https://www.fnbubbles420.org/visual-guide/visual-guide-info\n")
 
-    print("Tried VisualGuide?")
-    print("👉 Share feedback:")
-    print("https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/GIVE-FEEDBACK.md\n")
+    print(Fore.CYAN + "💬 Need help or setup guidance?")
+    print(Fore.WHITE + "👉 Join our Discord:")
+    print(Fore.YELLOW + "https://fnbubbles420.org/discordinvite\n")
 
-    print("Thank you for supporting accessibility in gaming.")
-    print("— FNBubbles420 Org\n")
+    print(Fore.CYAN + "🧪 Tried VisualGuide?")
+    print(Fore.WHITE + "👉 Share your feedback:")
+    print(Fore.YELLOW + "https://github.com/FNBUBBLES420-ORG/VisualGuide/blob/main/GIVE-FEEDBACK.md\n")
 
+    print(Fore.GREEN + "💙 Thank you for supporting accessibility in gaming.")
+    print(Fore.MAGENTA + "— FNBubbles420 Org\n")
+
+    input(Fore.WHITE + "Press Enter to exit...")
 
 if __name__ == "__main__":
     main()
