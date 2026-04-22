@@ -2,8 +2,10 @@
   - > (`outdated`): 1.0.40 
   - > (`outdated`): 1.0.41 (dependency updates)
   - > (`outdated`): 1.0.43 (major updates)
-  - > New Version: `1.0.50` (`outdated`)
+  - > (`outdated`): `1.0.50`
 - > New Version: `1.0.54` (Dependency Updates & Security Updates)
+---
+
 - > Nvidia Cuda Cudnn Installer Version: 0.0.3 (`outdated`)
 - > Nvidia Cuda Cudnn Installer Version: `0.0.5` (`outdated`)
 - > Nvidia Cuda Cudnn Installer Version: `0.0.10` (security updates)
